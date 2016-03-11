@@ -1,0 +1,48 @@
+h1
+{
+    color: white;
+    font-size: 100px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+h2
+{
+    color: white;
+    width: 100%;
+    margin: 0 auto;
+    font-size: 50px;
+}
+
+p
+{
+    color: white;
+}
+li
+{
+    font-size: 25px;
+    width: 100%;
+    margin: 0 auto;
+    list-style: none;
+    color: white;
+}
+
+a
+{
+    font-size: 25px;
+    width: 100%;
+    margin: 0 auto;
+    color: gray;
+}
+h1
+{
+    margin: 0 auto;
+}
+
+body
+{
+    background-image: url(b-wall.png);
+    background-size: cover;
+    height: 800px;
+    text-align: center;
+}
